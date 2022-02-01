@@ -10,4 +10,4 @@ Learning outcomes :
 You will learn how to write HTML documents and work with the most popular CSS properties. 
 You will also learn how to use JavaScript to make event handlers for browser events and create and insert new elements into documents.
 -------------------
-jetbrains Academy >>> https://hyperskill.org
+``` jetbrains Academy >>> ``` https://hyperskill.org
